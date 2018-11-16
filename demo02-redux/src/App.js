@@ -30,7 +30,7 @@ class App extends Component {
           <div className="row">
             <div className="col-xs-offset-3 col-xs-2">
               <img
-                src="angular_logo.png"
+                src="angular_logo.svg"
                 alt="Angular"
                 height="96"
                 onClick={this.handleVoteAngular}
@@ -38,7 +38,7 @@ class App extends Component {
             </div>
             <div className="col-xs-2">
               <img
-                src="react_logo.png"
+                src="react_logo.svg"
                 alt="React"
                 height="96"
                 onClick={this.handleVoteReact}
